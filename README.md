@@ -7,7 +7,6 @@ This project showcases a collection of music albums and singles using data mimic
 - Display album covers, names, and artist details fetched from a local JSON file.
 - Interactive hover effects to reveal play, favorite, and more information buttons.
 - Responsive design with a grid layout adjusting for desktop, tablet, and mobile viewports.
-- External links to album and artist pages on Spotify.
 
 ## Live Demo
 
