@@ -21,6 +21,3 @@ The app is deployed using Netlify and is availble here:  https://torunmusic.netl
 
 This app is created as part of the learning material for React development. Thanks to the team for providing the design and API structure to work with.
 
----
-
-© Torun Wallin, Music Releases App. All rights reserved.
