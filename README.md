@@ -8,15 +8,7 @@ This project showcases a collection of music albums and singles using data mimic
 - Interactive hover effects to reveal play, favorite, and more information buttons.
 - Responsive design with a grid layout adjusting for desktop, tablet, and mobile viewports.
 
-## Live Demo
 
-Check out the live demo of the project https://torunmusic.netlify.app
-
-## Build and Deployment
+## Build and deployment
 
 The app is deployed using Netlify and is availble here:  https://torunmusic.netlify.app
-
-## Acknowledgments
-
-This app is created as part of the learning material for React development. Thanks to the team for providing the design and API structure to work with.
-
